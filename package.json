@@ -1,0 +1,22 @@
+{
+  "name": "pkgtest",
+  "version": "1.0.0",
+  "description": "package for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aritraroy1/testfresco.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "SG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aritraroy1/testfresco/issues"
+  },
+  "homepage": "https://github.com/aritraroy1/testfresco#readme"
+}
